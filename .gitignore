@@ -21,7 +21,8 @@ build/
 /.build/
 /.swiftpm/
 
-GoogleService-Info.plist
+# Firebase data
+**/GoogleService-Info.plist
 
 # Xcode automatic backups
 *.xcscmblueprint
