@@ -17,10 +17,10 @@ Enable is an iOS app that allows users to create and manage exercises and routin
 ## 📸 Screenshots
 
 <div align="center">
-  <img src="assets/walkthrough.png" width="300" alt="App Walkthrough" />
-  <img src="assets/library.png" width="300" alt="Library of Exercises" />
-  <img src="assets/create_exercise.png" width="300" alt="Creating an Exercise" />
-  <img src="assets/chat_view.png" width="300" alt="User Chat Interface" />
+  <img src="readme_assets/walkthrough.png" width="300" alt="App Walkthrough" />
+  <img src="readme_assets/library.png" width="300" alt="Library of Exercises" />
+  <img src="readme_assets/create_exercise.png" width="300" alt="Creating an Exercise" />
+  <img src="readme_assets/chat_view.png" width="300" alt="User Chat Interface" />
 </div>
 
 ---
