@@ -1,0 +1,33 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+._*
+
+# Xcode
+*.xcuserdata/
+*.xcuserstate
+*.xccheckout
+*.moved-aside
+DerivedData/
+build/
+*.pbxuser
+!default.pbxuser
+*.mode1v3
+*.mode2v3
+*.perspectivev3
+
+# Swift Package Manager
+/.build/
+/.swiftpm/
+
+GoogleService-Info.plist
+
+# Xcode automatic backups
+*.xcscmblueprint
+
+# User-specific
+.idea/
+*.swp
+*~
+*.orig
