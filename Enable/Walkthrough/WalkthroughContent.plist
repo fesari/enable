@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<array>
+	<dict>
+		<key>title</key>
+		<string>View</string>
+		<key>content</key>
+		<string>View a list of all your exercises and routines in one place</string>
+		<key>sfSymbol</key>
+		<string>bookmark</string>
+		<key>selectedImage</key>
+		<string>view</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Create</string>
+		<key>content</key>
+		<string>Create new exercises and routines to add to your list (remember to refresh in the top right of the View menu!)</string>
+		<key>sfSymbol</key>
+		<string>plus</string>
+		<key>selectedImage</key>
+		<string>create</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Connect</string>
+		<key>content</key>
+		<string>Chat with clients/clinicians to keep up to date with the latest information</string>
+		<key>sfSymbol</key>
+		<string>person.fill</string>
+		<key>selectedImage</key>
+		<string>connect2</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Profile</string>
+		<key>content</key>
+		<string>Customise your profile details in the settings menu</string>
+		<key>sfSymbol</key>
+		<string>gearshape</string>
+		<key>selectedImage</key>
+		<string>profile2</string>
+	</dict>
+	<dict>
+		<key>title</key>
+		<string>Welcome to Enable</string>
+		<key>content</key>
+		<string></string>
+		<key>sfSymbol</key>
+		<string>gearshape</string>
+		<key>selectedImage</key>
+		<string>logo.normal.transparent</string>
+	</dict>
+</array>
+</plist>
